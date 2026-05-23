@@ -1,0 +1,424 @@
+   body {
+     background-image: url(https://bodoge-bu.github.io/github.io/space.PNG);
+     background-repeat:repeat;
+     background-size: 600px;
+     background-attachment:fixed;
+       background-color: rgb(245, 245, 245);
+       color: #0C0C0D;
+     display: block;
+     user-select: none;
+     -webkit-user-select: none;
+     font-family: "HiraginoSans-W3" 
+}
+
+
+
+   .heading {
+      border-top: solid 5px rgb(0, 0, 0);
+     border-bottom: solid 5px rgb(0, 0, 0);
+     margin-top: 35px;
+     margin-bottom: 5px;
+     text-align: center;
+     background-color: rgb(245, 245, 245);
+     font-size: 32px;
+     font-weight:700; 
+   }
+
+   .heading2 {
+      border-top: solid 5px rgb(0, 0, 0);
+     border-bottom: solid 5px rgb(0, 0, 0);
+     margin-top: 35px;
+     margin-bottom: 5px;
+     text-align: center;
+     background-color: rgb(245, 245, 245);
+     font-size: 32px;
+     font-weight:700; 
+      max-width: 600px;
+   }
+
+
+   .content-right {
+     margin-left: 100px;
+     width: 50%;
+   }
+
+   .news-heading {
+       border: solid 1px;
+       box-sizing: border-box;
+     margin-top: 20px;
+     margin-bottom: 10px;
+     text-align: center;
+     font-size: 16px;
+     font-weight: bold;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-image: linear-gradient(rgb(235, 51, 97), rgb(255, 142, 67));
+   }
+
+.face-photo {
+     display: inline-block;
+     align-items: start;
+     margin-top: 2%;
+     margin-left: 3%;
+     margin-bottom: 23px;
+   }
+
+.face-photo2 {
+     display: inline-block;
+     width: 100%;
+     max-width: 800px;
+   }
+
+.goodstitle {
+   margin-top: 15px;
+   margin-bottom: -10px;
+   width: 90%;
+   font-size: 33px;
+   font-weight: bold;
+   letter-spacing: 0.1em
+}
+
+.goodssubtitle {
+   margin-top: -10px;
+   margin-bottom: 10px;
+   width: 90%;
+   font-size: 17px;
+   font-family: "HiraginoSans-W6" 
+}
+
+.clear_box {
+   clear: both;
+}
+
+
+.deme-photo {
+        display: inline-block;
+     align-items: start;
+     margin-top: 2%;
+     margin-left: 3%;
+     margin-bottom: 23px;
+       position: absolute;
+   }
+
+.souryou0 {
+   width: 90%;
+   font-size: 20px;
+  text-align:center;
+   font-family: "HiraginoSans-W6" 
+   
+}
+
+.souryou {
+   display: inline-block;
+   width: 150px;
+   font-size: 20px;
+  text-align: center;
+   font-family: "HiraginoSans-W6" 
+   
+}
+
+   .shippinglist {
+     width: 90%;
+     height: 100%;
+     text-align: center;
+     border: solid 2px;
+     margin-left: 5%;
+     margin-right: 7%;
+     margin-bottom: 5%;
+     background-color: rgba(255, 255, 255, 0.801);
+   }
+
+
+
+#href {color: white;}
+
+   .content-left {
+     width: 90%;
+     height: 100%;
+     border: solid 2px;
+     margin-left: 3%;
+     margin-right: 3%;
+     margin-bottom: 2%;
+     background-color: rgba(255, 255, 255, 0.801);
+   }
+
+ .content-left2 {
+     width: 90%;
+     height: 100%;
+     border: solid 2px;
+     margin-left: 3%;
+     margin-right: 3%;
+     margin-bottom: 2%;
+     background-color: rgba(255, 255, 255, 0.801);
+   }
+
+ .content-left3 {
+     width: 90%;
+     height: 100%;
+     border: solid 2px;
+     margin-left: 3%;
+     margin-right: 3%;
+     margin-bottom: 2%;
+     background-color: rgba(255, 255, 255, 0.801);
+   }
+
+   .content-left4 {
+     width: 90%;
+     height: 100%;
+     border: solid 2px;
+     margin-left: 3%;
+     margin-right: 3%;
+     margin-bottom: 2%;
+     background-color: rgba(255, 255, 255, 0.801);
+   }
+
+   .content-left5 {
+     width: 90%;
+     height: 100%;
+     border: solid 2px;
+     margin-left: 3%;
+     margin-right: 3%;
+     margin-bottom: 2%;
+     background-color: rgba(255, 255, 255, 0.801);
+   }
+   .content-left6 {
+     width: 90%;
+     height: 100%;
+     border: solid 2px;
+     margin-left: 3%;
+     margin-right: 3%;
+     margin-bottom: 2%;
+     background-color: rgba(255, 255, 255, 0.801);
+   }
+
+
+   .content-left7 {
+     width: 90%;
+     height: 100%;
+     border: solid 2px;
+     margin-left: 3%;
+     margin-right: 3%;
+     margin-bottom: 2%;
+     background-color: rgba(255, 255, 255, 0.801);
+   }
+
+   .designer-comment {
+     width: 90%;
+     height: 100%;
+     border: solid 2px;
+     margin-left: 5%;
+     margin-right: 7%;
+     margin-bottom: 5%;
+     background-color: rgba(255, 255, 255, 0.801);
+   }
+
+
+
+   .designer-comment_b {
+     width: 90%;
+     height: 100%;
+     margin-left: 5%;
+     margin-right: 7%;
+     margin-bottom: 10px;
+     background-color: rgba(255, 255, 255, 0);
+   }
+
+   .designer-comment2 {
+     float: left;
+     min-width: 630px;
+     width: 40%;
+     height: auto;
+     margin-left: 2%;
+     margin-right: 2%;
+     margin-bottom: 5%;
+     background-color: rgba(255, 255, 255, 0.801);
+   }
+
+.face-photo2 {
+     width: 100%;
+   }
+
+   .content {
+     width: 90%;
+     height: 100%;
+     border: solid 0px;
+     margin-left: 4%;
+     margin-right: 3%;
+     margin-bottom: 2%;
+     background-color: rgba(255, 255, 255, 0);
+     font-family: "HiraginoSans-W6" 
+   }
+
+
+   .content-left8 {
+     width: 90%;
+     height: 100%;
+     border: solid 2px;
+     margin-left: 3%;
+     margin-right: 3%;
+     margin-bottom: 2%;
+     background-color: rgba(255, 255, 255, 0.801);
+   }
+
+
+   .profile {
+     margin-bottom: 40px;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding: 0px 20px;              /* [上下]、[左右]の順に余白を指定 */
+     align-items: center;
+   }
+
+   .profile2 {
+     margin-bottom: 40px;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding: 0px 20px;              /* [上下]、[左右]の順に余白を指定 */
+     align-items: center;
+   }
+
+   .profile3 {
+     margin-bottom: 40px;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding: 0px 20px;              /* [上下]、[左右]の順に余白を指定 */
+     align-items: center;
+   }
+
+
+   .profile4 {
+     margin-bottom: 40px;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding: 0px 20px;              /* [上下]、[左右]の順に余白を指定 */
+     align-items: center;
+   }
+
+   .profile5 {
+     margin-bottom: 40px;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding: 0px 20px;              /* [上下]、[左右]の順に余白を指定 */
+     align-items: center;
+   }
+
+
+   .profile6 {
+     margin-bottom: 40px;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding: 0px 20px;              /* [上下]、[左右]の順に余白を指定 */
+     align-items: center;
+   }
+
+   .profile7 {
+     margin-bottom: 40px;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding: 0px 20px;              /* [上下]、[左右]の順に余白を指定 */
+     align-items: center;
+   }
+
+   .designer-comment-s {
+     width: 90%;
+     margin-top: 40px;
+     margin-bottom: 40px;
+     margin-left: 3%;
+     margin-right: 2%;
+     padding: 20px 20px;              /* [上下]、[左右]の順に余白を指定 */
+      background-color: rgba(255, 255, 255, 0.601);
+   }
+
+   .profile8 {
+     margin-bottom: 40px;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding: 0px 20px;              /* [上下]、[左右]の順に余白を指定 */
+     align-items: center;
+   }
+
+
+.contents-wrapper-inner {
+     display: inline-block;
+     align-items: start;
+     margin-top: 23px;
+     margin-left: 10px;
+     margin-bottom: 23px;
+   }
+
+.tooltip1{
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+}
+.tooltip1 p{
+    margin:0;
+    padding:0;
+}
+.description1 {
+    display: none;
+    position: absolute;
+    padding: 10px;
+    font-size: 12px;
+    line-height: 1.6em;
+    color: #fff;
+    border-radius: 5px;
+    background: #000;
+    width: 100px;
+}
+.description1:before {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    border: 15px solid transparent;
+    border-top: 15px solid #000;
+    margin-left: -15px;
+}
+.tooltip1:hover .description1{
+    display: inline-block;
+    top: -70px;
+    left: -30px;
+}
+
+.tooltip2{
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+}
+.tooltip2 p{
+    margin:0;
+    padding:0;
+}
+.description2 {
+    display: none;
+    position: absolute;
+    padding: 10px;
+    font-size: 12px;
+    line-height: 1.6em;
+    color: #fff;
+    border-radius: 5px;
+    background: #000;
+    width: 400px;
+}
+.description2:before {
+    content: "";
+    position: absolute;
+    top: 0%;
+    right: 95%;
+    border: 15px solid transparent;
+    border-top: 15px solid #000;
+    margin-left: -15px;
+    transform: rotateZ(90deg);
+}
+.tooltip2:hover .description2{
+    display: inline-block;
+    top: 0px;
+    left: 80px;
+}
+
+
+     /* 全体設定 */
+* {
+  box-sizing: content-box;
+  }
